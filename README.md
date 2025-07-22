@@ -17,20 +17,18 @@ A simple, lightweight, and modern text editor built entirely in Java. This proje
 
 ## ✨ Key Features
 
-* **📄 File Operations:** Create, Open and Savetext files.
+* **📄 File Operations:** Create, Open , Exit and Savetext files.
 * **✂️ Clipboard Actions:** Standard Cut, Copy, and Paste functionality.
-* **✍️ Text Manipulation:** Select All, Word Wrap, and Font customization (change family, style, and size).
-* **🎨 Theme Customization:** Change the editor's background and font colors.
-* **🔍 Find & Replace:** A utility to quickly find and replace text within the document.
+* **✍️ Text Manipulation:** Font customization (change family, style, and size).
+* **🎨 Theme Customization:** Change the font colors.
 
 ---
 
 ## 🛠️ Technology Stack
 
 * **Core Language:** Java
-* **GUI Framework:** JavaFX *(or Java Swing, depending on what you used)*
-* **IDE:** IntelliJ IDEA / Eclipse
-* **Build Tool:** Maven *(Optional, if you used it)*
+* **GUI Framework:** Java Swing*(or Java Swing, depending on what you used)*
+* **IDE:** IntelliJ IDEA 
 
 ---
 
