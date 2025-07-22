@@ -2,7 +2,13 @@
 
 A simple, lightweight, and modern text editor built entirely in Java. This project is a fully functional desktop application inspired by standard editors like Notepad, created to showcase core Java skills, GUI development, and file handling.
 
-<img width="362" height="366" alt="Screenshot 2025-07-22 075959" src="https://github.com/user-attachments/assets/f8180a53-8905-4fda-936d-560bc0c6d67d" />
+<img width="362" height="366" alt="HOME PAGE" src="https://github.com/user-attachments/assets/f8180a53-8905-4fda-936d-560bc0c6d67d" />
+<img width="457" height="288" alt="Pic2" src="https://github.com/user-attachments/assets/d9b846de-19d7-4d49-bd7b-a18f5d2a6dd8" />
+<img width="959" height="501" alt="Pic 3" src="https://github.com/user-attachments/assets/9d40b8de-e1ba-47e9-a627-70d67b8ce0b9" />
+<img width="954" height="504" alt="Pic4" src="https://github.com/user-attachments/assets/345f57ca-0cf9-4774-9fa7-4c8a1a0e7da5" />
+<img width="958" height="503" alt="Pic5" src="https://github.com/user-attachments/assets/cc2ea288-cb74-4838-8d67-fba8850f099e" />
+<img width="958" height="503" alt="Pic6" src="https://github.com/user-attachments/assets/d16bef48-1b87-480f-8410-2599f2edea32" />
+<img width="359" height="368" alt="Pic7" src="https://github.com/user-attachments/assets/63872970-f3e3-40d9-be41-193315abe7bb" />
 
 
 
