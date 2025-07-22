@@ -20,6 +20,7 @@ A simple, lightweight, and modern text editor built entirely in Java. This proje
 * **📄 File Operations:** Create, Open and Savetext files.
 * **✂️ Clipboard Actions:** Standard Cut, Copy, and Paste functionality.
 * **✍️ Text Manipulation:** Select All, Word Wrap, and Font customization (change family, style, and size).
+* **🎨 Theme Customization:** Change the editor's background and font colors.
 * **🔍 Find & Replace:** A utility to quickly find and replace text within the document.
 
 ---
