@@ -27,7 +27,7 @@ A simple, lightweight, and modern text editor built entirely in Java. This proje
 ## 🛠️ Technology Stack
 
 * **Core Language:** Java
-* **GUI Framework:** Java Swing*(or Java Swing, depending on what you used)*
+* **GUI Framework:** Java Swing
 * **IDE:** IntelliJ IDEA 
 
 ---
@@ -36,11 +36,11 @@ A simple, lightweight, and modern text editor built entirely in Java. This proje
 
 1.  **Prerequisites:**
     * Java Development Kit (JDK) 11 or higher must be installed on your system.
-    * *(If using JavaFX)* JavaFX SDK must be configured in your IDE.
+
 
 2.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+    git clone [github.com/ABBAS-SHAIK-3010/Simple_Text_Editor.git](https://github.com/ABBAS-SHAIK-3010/Simple_Text_Editor)
     ```
 
 3.  **Open in IDE:**
